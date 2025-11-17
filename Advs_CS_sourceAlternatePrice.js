@@ -14,7 +14,7 @@ define(['N/record', 'N/search', 'N/log'], function (record, search, log) {
                     sublistId: 'item',
                     fieldId: 'item'
                 });
-
+                    alert("Testing with git from another dev")
                 if (!itemId) return;
 
                 // Example: Let's get the Wholesale Price (price level internalid: 2)
