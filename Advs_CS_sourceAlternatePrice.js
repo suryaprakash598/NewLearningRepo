@@ -16,7 +16,7 @@ define(['N/record', 'N/search', 'N/log'], function (record, search, log) {
                 });
                     alert("Testing with git from another dev")
                 if (!itemId) return;
-
+                    alert("commiting to branch surya")
                 // Example: Let's get the Wholesale Price (price level internalid: 2)
                 var altPriceLevelId = 2; // Replace with your actual price level internal ID
 
